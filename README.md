@@ -1,7 +1,6 @@
 # Ex-6-Handwritten Digit Recognition using MLP
 ## Aim:
        To Recognize the Handwritten Digits using Multilayer perceptron.
-       
 ##  EQUIPMENTS REQUIRED:
 
 Hardware – PCs
@@ -192,3 +191,4 @@ get_accuracy(dev_predictions, Y_dev)
 
 
 ## Result:
+Thus The Implementation of Handwritten Digit Recognition using MLP Is Executed Successfully.
